@@ -1,3 +1,3 @@
 module.exports = {
-  serve: { https: false }
+    serve: { https: false }
 };
